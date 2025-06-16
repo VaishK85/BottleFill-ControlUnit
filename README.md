@@ -75,3 +75,5 @@ BottleFill-ControlUnit is a SCADA-based automated bottle filling system develope
 - Add barcode scanning for batch management
 - Enable remote monitoring via cloud dashboard
 - Expand to multi-line bottle filling with PLC ladder logic
+
+  https://github.com/VaishK85/SCADA-BottleFill-ControlUnit/blob/main/Demo%20Video.mp4
