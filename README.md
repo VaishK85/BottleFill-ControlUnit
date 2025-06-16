@@ -1,3 +1,8 @@
+
+![PLC](https://img.shields.io/badge/PLC-Allen--Bradley-orange)
+![InTouch](https://img.shields.io/badge/InTouch-Version--10-brightgreen)
+
+
 # BottleFill-ControlUnit
 
 ## Overview
