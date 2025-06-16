@@ -34,11 +34,17 @@ BottleFill-ControlUnit is a SCADA-based automated bottle filling system develope
 - Go to `Application > Restore`
 - Select the `BottleFiller.apa` file from the `InTouchProject/` directory
 
+  ![image](https://github.com/user-attachments/assets/e8af283b-b4ce-4deb-8666-f30d52887267)
+
+
 ### 2. Configure Tags
 - Launch **WindowMaker**
 - Load the `Tagname.x` tag file
 - Configure I/O addresses or use internal memory tags
 - Make sure all digital/analog inputs and outputs are properly mapped
+
+  ![image](https://github.com/user-attachments/assets/ca937052-6ce6-40cb-96a4-196948e8714f)
+
 
 ### 3. Run the HMI
 - Open **WindowViewer**
@@ -46,10 +52,15 @@ BottleFill-ControlUnit is a SCADA-based automated bottle filling system develope
 - Use control buttons to Start/Stop and trigger emergency functions
 - Observe bottle count, alarm messages, and tank levels
 
+![image](https://github.com/user-attachments/assets/3c83182b-5e07-43a5-bbc8-1a7fc67ada5b)
+
+
 ### 4. Hardware Interface (Optional)
 - Connect PLC with sensors and actuators
 - Use OPC/DA or direct communication protocol in tag configuration
 - Ensure real-time data exchange between SCADA and hardware
+
+![image](https://github.com/user-attachments/assets/268b1f55-b25f-4a5a-967c-f4f1e9af8dc4)
 
 ## Future Enhancements
 - Add data logging and report generation using Wonderware Historian
