@@ -6,7 +6,7 @@
 
 
 
-# BottleFill-ControlUnit
+# SCADA-BottleFill-ControlUnit
 
 ## Overview
 BottleFill-ControlUnit is a SCADA-based automated bottle filling system developed using **Wonderware InTouch 10**. It is designed to streamline the industrial bottle filling process in sectors such as beverages, pharmaceuticals, and chemicals. This system allows real-time monitoring and control, reduces manual errors, and enhances operational safety and efficiency.
