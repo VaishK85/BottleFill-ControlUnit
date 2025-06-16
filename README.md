@@ -1,9 +1,8 @@
 
 
 
-![SCADA](https://img.shields.io/badge/SCADA-Wonderware-blue)
 ![PLC](https://img.shields.io/badge/PLC-Allen--Bradley-orange)
-![HMI](https://img.shields.io/badge/HMI-InTouch--10-green)
+![InTouch](https://img.shields.io/badge/InTouch-Version--10-brightgreen)
 
 
 
