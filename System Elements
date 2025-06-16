@@ -1,0 +1,9 @@
+# INPUT ELEMENTS
+
+- PLC (Allen-Bradley MicroLogix / Siemens / Arduino with SCADA integration)
+- IR Sensor – For bottle presence detection
+- Solenoid Valve – For liquid dispensing control
+- Relay Module – To switch solenoid valve or motor
+- Power Supply – 5V / 12V / 24V DC as per component ratings
+- SCADA Software – Wonderware InTouch 10
+- HMI – Developed using InTouch WindowMaker
