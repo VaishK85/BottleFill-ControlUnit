@@ -4,9 +4,6 @@
 ![PLC](https://img.shields.io/badge/PLC-Allen--Bradley-orange)
 ![InTouch](https://img.shields.io/badge/InTouch-Version--10-brightgreen)
 
-![SCADA Banner](banner.png)
-
-
 
 # SCADA-BottleFill-ControlUnit
 
